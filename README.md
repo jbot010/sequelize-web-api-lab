@@ -10,7 +10,7 @@ The following section provides information on the available endpoints for this A
 
 **Endpoint**: ```/api/dogs```
 
-**Description**: This endpoint creates a new dog with the provided information in the request body.
+**Description**: This endpoint creates a new Dog with the provided information in the request body.
 
 Request Body:
 ```
