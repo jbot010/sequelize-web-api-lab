@@ -7,4 +7,6 @@ router.get('/', dogsCtrl.index)
 
 router.put('/:dogId', dogsCtrl.update)
 
+router.delete('/:dogId', dogsCtrl.delete)
+
 module.exports = router
